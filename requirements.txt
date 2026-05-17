@@ -1,0 +1,21 @@
+# Requirements for Clinical Data Warehouse - HI 741 Final Project
+# Nikhila Pati
+
+# This project only uses Python built-in libraries so there is nothing to install.
+# Just make sure you have Python 3.9 or above.
+
+# Built-in libraries used:
+# - tkinter (for the GUI)
+# - csv (reading and writing csv files)
+# - os (file paths)
+# - datetime (timestamps for the usage log)
+# - random (generating unique visit IDs)
+# - string (used with random for ID generation)
+# - math (not directly but used internally)
+
+# If tkinter is missing on Mac run: brew install python-tk@3.13
+# If tkinter is missing on Linux run: sudo apt install python3-tk
+# On Windows it should already be included with Python
+
+# Python version I used: 3.13
+# Minimum required: 3.9
