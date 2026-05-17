@@ -5,12 +5,7 @@
 **Instructor:** Lu He  
 
 ---
-
-## GitHub Repository
-
-https://github.com/YourUsername/clinical-data-warehouse  
-*(update this link after pushing to GitHub)*
-
+ https://github.com/nikhilapati/hospital_managment.git
 ---
 
 ## What this program does
